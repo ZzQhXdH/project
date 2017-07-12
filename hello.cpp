@@ -7,6 +7,10 @@ T Max(T arg1, T arg2)
 	return arg1 > arg2 ? arg1 : arg2;
 }
 
+/**
+ * ÕâÊÇ×¢ÊÍ
+ */
+
 int main(int argc, char *argv[])
 {
 	double x = Max(1, 5);
